@@ -17,4 +17,8 @@ describe('Electrons around the cores', () => {
         expect(calculateElectrons([2, 2, 5, 6])).toBe(4);
     });
 
+	it('should sum up multiple 3s and 5s', () => {
+        expect(calculateElectrons([3, 5, 2, 4])).toBe(6);
+    });
+
     });
