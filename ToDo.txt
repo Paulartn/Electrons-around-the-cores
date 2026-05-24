@@ -6,11 +6,11 @@ TODO LIST: Electrons around the cores (Kata)
     - Test für die Existenz der Funktion/Klasse schreiben.
     - Funktion soll existieren und aufgerufen werden können (gibt z.B. 0 zurück).
 
- TODO 2: Würfel ohne Elektronen (Ergebnis = 0)      // In Progress Senol
+ TODO 2: Würfel ohne Elektronen (Ergebnis = 0)      // done Senol
     - Test mit Würfeln, die keine Punkte um das Zentrum haben: [2, 4, 6]
     - Erwartetes Ergebnis: 0
 
- TODO 3: Einzelne '3' verarbeiten (Ergebnis = 2)
+ TODO 3: Einzelne '3' verarbeiten (Ergebnis = 2)     // In Porgress Paul
     - Test mit einem Array, das genau eine 3 enthält (Rest z.B. 2 oder 4): [2, 3, 4, 4]
     - Erwartetes Ergebnis: 2
 
