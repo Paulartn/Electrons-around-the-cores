@@ -21,4 +21,8 @@ describe('Electrons around the cores', () => {
         expect(calculateElectrons([3, 5, 2, 4])).toBe(6);
     });
 
+	it('should ignore 1s as they have 0 electrons around the core', () => {
+        expect(calculateElectrons([1, 1, 2, 4])).toBe(0);
+    });
+
     });
