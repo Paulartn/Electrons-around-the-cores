@@ -22,11 +22,11 @@ TODO LIST: Electrons around the cores (Kata)
     - Test mit mehreren relevanten Würfeln: [3, 5, 2, 4]
     - Erwartetes Ergebnis: 6
 
- TODO 6: Die '1' korrekt ignorieren (Ergebnis = 0)      // In Progress Senol
+ TODO 6: Die '1' korrekt ignorieren (Ergebnis = 0)      // done Senol
     - Test stellt sicher, dass die 1 (obwohl ungerade) keine Elektronen liefert: [1, 1, 2, 4]
     - Erwartetes Ergebnis: 0
 
- TODO 7: Komplexe Eingaben (Validierung der Moodle-Beispiele)
+ TODO 7: Komplexe Eingaben (Validierung der Moodle-Beispiele)   // In Progress Paul
     - Testfall aus der Angabe: [ 1, 2, 3, 4, 5 ] -> 6
     - Testfall aus der Angabe: [ 2, 2, 3, 3 ] -> 4
     - Testfall aus der Angabe: [ 6, 6, 4, 4, 1, 3 ] -> 2
