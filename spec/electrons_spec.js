@@ -9,4 +9,8 @@ describe('Electrons around the cores', () => {
         expect(calculateElectrons([2, 4, 6, 2])).toBe(0);
     });
 
+	it('should return 2 when there is exactly one 3', () => {
+        expect(calculateElectrons([2, 3, 4, 4])).toBe(2);
+    });
+
     });
