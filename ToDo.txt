@@ -2,7 +2,7 @@
 TODO LIST: Electrons around the cores (Kata)
 
 
- TODO 1: Basis-Setup & minimaler Testlauf
+ TODO 1: Basis-Setup & minimaler Testlauf   // In Progress
     - Test für die Existenz der Funktion/Klasse schreiben.
     - Funktion soll existieren und aufgerufen werden können (gibt z.B. 0 zurück).
 
