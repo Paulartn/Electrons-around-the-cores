@@ -10,11 +10,11 @@ TODO LIST: Electrons around the cores (Kata)
     - Test mit Würfeln, die keine Punkte um das Zentrum haben: [2, 4, 6]
     - Erwartetes Ergebnis: 0
 
- TODO 3: Einzelne '3' verarbeiten (Ergebnis = 2)     // In Porgress Paul
+ TODO 3: Einzelne '3' verarbeiten (Ergebnis = 2)     // done Paul
     - Test mit einem Array, das genau eine 3 enthält (Rest z.B. 2 oder 4): [2, 3, 4, 4]
     - Erwartetes Ergebnis: 2
 
- TODO 4: Einzelne '5' verarbeiten (Ergebnis = 4)
+ TODO 4: Einzelne '5' verarbeiten (Ergebnis = 4)    // In Progress Senol
     - Test mit einem Array, das genau eine 5 enthält (Rest z.B. 2 oder 6): [2, 2, 5, 6]
     - Erwartetes Ergebnis: 4
 
