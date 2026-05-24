@@ -14,11 +14,11 @@ TODO LIST: Electrons around the cores (Kata)
     - Test mit einem Array, das genau eine 3 enthält (Rest z.B. 2 oder 4): [2, 3, 4, 4]
     - Erwartetes Ergebnis: 2
 
- TODO 4: Einzelne '5' verarbeiten (Ergebnis = 4)    // In Progress Senol
+ TODO 4: Einzelne '5' verarbeiten (Ergebnis = 4)    // done Senol
     - Test mit einem Array, das genau eine 5 enthält (Rest z.B. 2 oder 6): [2, 2, 5, 6]
     - Erwartetes Ergebnis: 4
 
- TODO 5: Kombinierte ungerade Würfel (3er und 5er)
+ TODO 5: Kombinierte ungerade Würfel (3er und 5er)      // In Progress Paul
     - Test mit mehreren relevanten Würfeln: [3, 5, 2, 4]
     - Erwartetes Ergebnis: 6
 
