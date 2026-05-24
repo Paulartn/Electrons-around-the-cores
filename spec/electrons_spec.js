@@ -25,4 +25,22 @@ describe('Electrons around the cores', () => {
         expect(calculateElectrons([1, 1, 2, 4])).toBe(0);
     });
 
+	describe('Moodle Example Tests', () => {
+        it('Example 1: [1, 2, 3, 4, 5] -> 6', () => {
+            expect(calculateElectrons([1, 2, 3, 4, 5])).toBe(6);
+        });
+
+        it('Example 2: [2, 2, 3, 3] -> 4', () => {
+            expect(calculateElectrons([2, 2, 3, 3])).toBe(4);
+        });
+
+        it('Example 3: [6, 6, 4, 4, 1, 3] -> 2', () => {
+            expect(calculateElectrons([6, 6, 4, 4, 1, 3])).toBe(2);
+        });
+
+        it('Example 4: [3, 5, 3, 5, 4, 2] -> 12', () => {
+            expect(calculateElectrons([3, 5, 3, 5, 4, 2])).toBe(12);
+        });
+    });
+
     });
